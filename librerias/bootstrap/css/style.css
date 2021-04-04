@@ -1,0 +1,32 @@
+body {
+  
+  background: url(../../../img/fondo2.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.botones {
+  margin-bottom: 10px;
+}
+
+.imglogo{
+  position: absolute;
+  height:400px;
+  width:300px;
+  z-index: -1;
+}
+table {
+  background: #f7f6f2;
+  width: 100%;
+  text-align: center;
+}
+
+.titulo {
+  color: #d6f1eb;
+  text-align: center;
+}
+
+.row {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
